@@ -1,0 +1,9 @@
+{
+  "gemini_api_key": "",
+  "mongodb_uri": "",
+  "mongodb_database": "nova",
+  "wake_word_enabled": true,
+  "wake_words": ["hello nova"],
+  "voice": "en-US-AnaNeural",
+  "auto_start_with_windows": false
+}
